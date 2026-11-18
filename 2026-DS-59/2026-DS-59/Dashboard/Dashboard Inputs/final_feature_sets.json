@@ -1,0 +1,40 @@
+{
+  "features_no_odds": [
+    "stage",
+    "league_1",
+    "league_1729",
+    "league_4769",
+    "league_7809",
+    "league_10257",
+    "league_13274",
+    "league_15722",
+    "league_17642",
+    "league_19694",
+    "league_21518",
+    "league_24558",
+    "diff_form_pts",
+    "diff_form_gf",
+    "diff_form_ga",
+    "diff_season_ppg"
+  ],
+  "features_with_odds": [
+    "stage",
+    "league_1",
+    "league_1729",
+    "league_4769",
+    "league_7809",
+    "league_10257",
+    "league_13274",
+    "league_15722",
+    "league_17642",
+    "league_19694",
+    "league_21518",
+    "league_24558",
+    "diff_form_pts",
+    "diff_form_gf",
+    "diff_form_ga",
+    "diff_season_ppg",
+    "prob_H",
+    "prob_D"
+  ]
+}

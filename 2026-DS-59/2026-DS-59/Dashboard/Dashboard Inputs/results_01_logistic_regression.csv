@@ -1,0 +1,3 @@
+model,features,accuracy,macro_F1,weighted_F1,log_loss,draw_recall
+Logistic Regression,No odds,0.4596,0.4224,0.4509,1.0481,0.2023
+Logistic Regression,With odds,0.4965,0.4778,0.502,0.9999,0.3431
